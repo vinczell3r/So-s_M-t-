@@ -1,0 +1,55 @@
+A magyar süteménykultúra különlegességei
+
+
+Képek
+Dobos
+Somlói
+Recept
+
+
+Magyarország nem csak gazdag történelmi múltjáról és lenyűgöző tájairól ismert, hanem különleges gasztronómiájáról is, amelynek szerves részét képezik a híres magyar sütemények.
+Ezek az édességek több mint finomságok, ők a magyar kultúra, hagyomány és vendégszeretet megtestesítői. A magyar süteménykultúra sokszínűsége és gazdagsága tükrözi a nemzet kreativitását és az évszázadok során tökéletesített cukrászművészetét.
+A retró sütemények varázsa abban rejlik, hogy nemcsak az ízlelőbimbóinkat kápráztatják el, hanem régi, gyerekkori emlékeinket is felébresztik. Egy-egy édes falat után szinte újra ott ülünk nagymamánk konyhájában, ahol a frissen sült finomságok illata lengte be a levegőt, és minden szelet süteményben ott volt a gondoskodás és a hatalmas szeretet. Ezek a klasszikus desszertek generációkat kötnek össze, és ma is legalább ugyanolyan örömet okoznak, mint annak idején, gyerekkorunkban.
+
+
+Galéria
+
+<!-- ide kerül majd a képgaléria Bootstrap rács -->
+
+
+Egy igazi klasszikus
+
+Beszélve a híres magyar süteményekről, nem hagyhatjuk ki a dobostortát. Ez a sütemény egy igazi mestermű, amely tökéletes harmóniát teremt az ízek és a textúrák között.
+A dobostorta ötlete egy 19. századi cukrászmester, Dobos C. József fejéből pattant ki, aki ezzel a süteménnyel forradalmasította az akkori cukrászatot. A torta hét réteg piskótából áll, amelyeket csokoládékrémmel töltöttek meg, és a tetejét karamellel vonják be.
+A dobostorta nem csak ízében, hanem történetében is egyedülálló, hiszen azóta is töretlen népszerűségnek örvend.
+
+A gazdag ízvilágú magyar desszert
+
+A somlói galuska egy igazán egyedülálló és összetett magyar desszert, amely a magyar cukrászat egyik csillaga. Ez a sütemény egy gazdag és textúrált édesség, amely több rétegből áll, ötvözve a piskótát, csokoládéöntetet, és gyakran rumos meggyet vagy rumaromát.
+A somlói galuska története az 1950-es évekre nyúlik vissza, amikor is Jedermann Ilona, a Gundel étterem cukrásza alkotta meg ezt a különlegességet. A desszert népszerűsége azóta is töretlen, és ma már a magyar gasztronómia ikonikus darabjának számít.
+
+
+
+A piskótatekercs receptje
+
+Hozzávalók <input type="number" value="1" min="1" max="9" onclick="recept()" id="letszam"> tekercshez
+
+<span id="tojas">6</span> db tojás
+<span id="liszt">12</span> ek liszt
+<span id="cukor">8</span> ek kristálycukor
+
+Édesség neve
+Ár (Ft/szelet)
+Dobostorta
+1780
+Eszterházy torta
+1980
+Mikszáth szelet
+1470
+
+Elkészítése
+
+A sárgabaracklekváros piskótatekercs tésztájához a tojásokat szétválasztjuk, majd a fehérjét egy csipet sóval és egy pár csepp citromlével kemény habbá verjük, miközben kanalanként hozzáadjuk a cukrot.
+A tojásokat egyenként hozzáadjuk a tojásfehérjéhez, tovább verjük habverővel, majd gumilapátra vagy kanálra váltunk, és apránként hozzáadjuk a lisztet, és óvatosan összeforgatjuk.
+A tésztát sütőpapírral bélelt tepsibe öntjük, és 180 C fokra előmelegített sütőben körülbelül 20 perc alatt megsütjük
+A piskótát nedvesített, liszttel meghintett konyharuhára fordítjuk, a sütőpapírt lehúzzuk, feltekerjük, és így hagyjuk kihűlni. Ha kihűlt, kitekerjük, megkenjük a lekvárral, és visszatekerjük. Porcukorral meghintjük, majd felszeleteljük.
